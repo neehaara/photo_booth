@@ -1,0 +1,32 @@
+body{
+	text-align: center;
+	background-color: cornsilk;
+}
+div{
+	margin-top: 15px;
+}
+.image-section{
+	display: flex;
+	justify-content: center;
+}
+.section-style{
+	margin-right: 25px;
+	margin-left: 25px;
+	background-color: white;
+}
+#date{
+	float: left;
+}
+img{
+	height: 250px;
+	width: 250px;
+}
+p{
+color: burlywood;
+	font-family: french script mt;
+	font-size: 25px;
+	font-weight: bold;
+#text{
+	color: burlywood;
+	font-family: comic sans ms;
+}
